@@ -3,9 +3,9 @@ Welcome to my portfolio. Here you can find various projects I have completed and
 
 ## Contents
 
-[Python](#python)
-[SQL](#sql)
-[Power BI](#power-bi)
+-[Python](#python)
+-[SQL](#sql)
+-[Power BI](#power-bi)
 
 ***
 
